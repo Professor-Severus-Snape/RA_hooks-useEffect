@@ -1,5 +1,6 @@
 .list__item {
   padding: 10px 30px;
+  cursor: pointer;
 }
 
 .list__item:not(:last-child) {
