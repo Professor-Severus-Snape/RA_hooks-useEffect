@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/sfa88tpts2laiji8?svg=true)](https://ci.appveyor.com/project/Professor-Severus-Snape/ra-hooks-useeffect)
+
 # Список и детали
 
 Вы решили потренироваться в использовании хука `useEffect` и реализовать следующее приложение — список с пользователями, в котором при клике на пользователя рядом появляется окно, отображающее детальную информацию о нём:
