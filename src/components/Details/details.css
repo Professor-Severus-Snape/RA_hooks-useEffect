@@ -1,0 +1,21 @@
+.details {
+  border: 1px solid #000;
+  width: calc(45%);
+}
+
+.details__avatar {
+  display: block;
+  width: 100%;
+}
+
+.details__description {
+  padding: 10px 30px;
+}
+
+.details__description:not(:last-child) {
+  border-bottom: 1px solid #000;
+}
+
+.details__name {
+  text-align: center;
+}
